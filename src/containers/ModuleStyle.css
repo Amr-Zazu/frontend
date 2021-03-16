@@ -1,0 +1,99 @@
+#ModuleSection{
+    height: 30%;
+    padding: 50px 0;
+    overflow: hidden;
+    background: #fff;
+}
+
+
+#ModulePart{
+    margin-top: 20px;
+    width: 22%;
+    float: left;
+    height: 380px;
+    background: #cee9f0;
+    /* // padding: 30px 0; */
+    border: 1px solid #888;
+    border-radius: 25px;
+    box-sizing: border-box;
+    text-align: center;
+}
+  
+    
+
+#ModuleTitle{
+    font-size: 43px; 
+    font-weight: normal;
+}
+
+   
+#Span{
+    font-size: 40px; 
+    font-weight: bold;
+    margin-left: 30px;
+    margin-top: 0px;
+}
+#ModuleDesc{
+    font-size: 17px;
+    color: #000;
+    padding: 20px;
+    margin-top : 0;
+}
+   
+
+#ModuleButton{
+    background: #d65858;
+    color: #fff;
+    font-size: 18px;
+    width: 150px;
+    border: 0;
+    padding: 15px;
+    margin-top: 20px;
+    cursor: pointer;
+    font-weight: bold;
+}
+#ModuleButton:hover {
+        background: #fff;
+    color: #eb5424
+}
+
+
+#ModulePart .Forgery_detection{
+    margin-left: '1%' ; 
+}
+#ModulePart .Watermarking{
+    margin-left: '16%';  
+}
+#ModulePart .Steganography{
+    margin-left: '16%';
+}
+#ModuleTitle .Forgery_detection{
+    padding-top: '0%';
+}
+#ModuleTitle .Watermarking{
+    padding-top: '10%';
+}
+#ModuleTitle  .Steganography{
+    padding-top: '10%';
+}
+#ModuleDesc .Forgery_detection{
+    padding: '12px';
+
+}
+#ModuleDesc .Watermarking{
+    padding: '22px';
+
+}
+#ModuleDesc .Steganography{
+    padding: '12px';
+}
+
+
+
+  
+
+   
+
+
+
+
